@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "slogan": "Khondāb"
+    },
+    {
+      "id": 2,
+      "slogan": "Xijiao"
+    },
+    {
+      "id": 3,
+      "slogan": "Pyapon"
+    },
+    {
+      "id": 4,
+      "slogan": "Tsalgar"
+    },
+    {
+      "id": 5,
+      "slogan": "Vila Ribeiro"
+    },
+    {
+      "id": 6,
+      "slogan": "Beiqijia"
+    },
+    {
+      "id": 7,
+      "slogan": "Yekimovichi"
+    },
+    {
+      "id": 8,
+      "slogan": "Rio de Janeiro"
+    },
+    {
+      "id": 9,
+      "slogan": "La Rochelle"
+    },
+    {
+      "id": 10,
+      "slogan": "Dalovice"
+    }
+  ]
+}
